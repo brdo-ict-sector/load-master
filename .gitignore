@@ -5,3 +5,6 @@ claude.log
 # OS clutter
 .DS_Store
 Thumbs.db
+
+project-input.md
+.code-workspace
