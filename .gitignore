@@ -7,4 +7,4 @@ claude.log
 Thumbs.db
 
 project-input.md
-.code-workspace
+*.code-workspace
